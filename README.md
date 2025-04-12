@@ -1,5 +1,4 @@
-Лёвина Юлианна
-
+Лёвина Ю.
 сюжет
 [сюжет.txt](https://github.com/user-attachments/files/19721372/default.txt)
 
